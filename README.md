@@ -10,6 +10,9 @@ All four photographs are used as process/material imagery and do not depict Flak
 - `leather-tools.jpg` — cottonbro studio, [source](https://www.pexels.com/photo/close-up-shot-of-leather-workshop-tools-6653239/)
 - `hand-stitching.jpg` — Vlada Karpovich, [source](https://www.pexels.com/photo/a-close-up-shot-of-a-leatherworker-using-a-stitching-awl-4452514/)
 - `leather-materials.jpg` — Vlada Karpovich, [source](https://www.pexels.com/photo/leather-and-tools-for-leather-crafting-lying-on-a-desk-4452612/)
+- `african-leather-artisan.jpg` — Cre8ive Engine, [source](https://www.pexels.com/photo/ihless-the-cobbler-28049978/)
+
+`black-woman-leather-artisan.png` is an AI-generated contextual editorial image created specifically for this sample website. It does not depict Tugumisirize Flavia, Flakem staff, or a Flakem workshop or product.
 
 ## Private handover — confirmations still needed
 
